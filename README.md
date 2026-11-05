@@ -6,7 +6,7 @@ Unofficial Simplified Chinese overlay for the Factory desktop app. This reposito
 
 不改安装包，也不改程序文件。官方更新后不用重新打补丁，卸掉后官方文件仍是原样。启动时在本机打开调试端口，把 `zh-CN.json` 注入当前窗口。聊天正文、代码、终端和输入框不会被翻译。模型名、产品名、人名、组织名、网址和快捷键保持原文。
 
-词条大约 900 条，覆盖的是菜单、设置和常用短句。改安装包的全量汉化词条更多，界面覆盖也更大。
+词典里的英文原文和中文译文一一对应。其中一部分译文来自 [factory-desktop-zh-cn](https://github.com/19856706559tmk-boop/factory-desktop-zh-cn)，版权所有 (c) 2026 factory-zh Contributors，采用 MIT 许可证。
 
 ## 环境
 
